@@ -17,7 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: Belkirk College of Engineering yup
+textline: Belkirk College of Engineering this should be draft
 hero_button:
   text: Learn more
   href: "/about"
